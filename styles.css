@@ -2,7 +2,7 @@ body {
   width: 550px;
   margin-left: auto;
   margin-right: auto;
-  color: black;
+  color: #000000;
   background-image: url("./images/background.jpg");
   padding: 1em;
 }
@@ -13,6 +13,6 @@ p {
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: brown;
+  color: #a52a2a;
   text-align: center;
 }
