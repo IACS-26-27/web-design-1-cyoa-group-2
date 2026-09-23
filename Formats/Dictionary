@@ -1,0 +1,18 @@
+  <link rel="stylesheet" type="text/css" href="../styles.css" />
+  <!-- this is the backround -->
+  <a href="Cave.html">Enter the Cave</a>
+  <!-- this means to make an link in the page and you need an file -->
+   <!doctype html>
+   <!-- this is the start of the html file -->
+   <html lang="en">
+    <!-- this is the start of the html file -->
+  npm start
+  <!-- opens a port -->
+   <h1 style="text-align: center;">example</h1>
+   <!-- this centers the text. Ai helped give me this command -->
+    <hr />
+   <!-- this is a line -->
+    <img src="example" alt="example" />
+   <!-- this is an image -->
+<img src="example" width="example 1" alt="example" />
+<!-- this is a image with a width of an example number -->

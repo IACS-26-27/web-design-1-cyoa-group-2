@@ -2,16 +2,30 @@ body {
   width: 550px;
   margin-left: auto;
   margin-right: auto;
-  color: black;
-  background-image: url("./images/background.jpg");
+  color: #ded2d2;
+  background-image: url("./images/Minecraftbackground.png");
   padding: 1em;
 }
 p {
   font-size: 12pt;
   font-family: cursive;
 }
+a {
+  font-size: 16pt;
+  font-family: cursive;
+}
+h4 {
+  font-size: 16pt;
+  font-family: cursive;
+  margin: 0.75em 0;
+}
+li {
+  font-size: 15pt;
+  font-family: cursive;
+}
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: brown;
+  color: #1be908;
+  text-align: center;
 }

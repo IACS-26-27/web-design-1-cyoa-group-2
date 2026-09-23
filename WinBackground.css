@@ -1,0 +1,32 @@
+body {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ded2d2;
+  background-image: url("./images/MinecraftCinematicBackground.png");
+  padding: 1em; <!-- this image was created by Chatgpt-5.6Luna -->
+}
+p {
+  font-size: 12pt;
+  font-family: cursive;
+}
+a {
+  font-size: 16pt;
+  font-family: cursive;
+}
+h4 {
+  font-size: 16pt;
+  font-family: cursive;
+  margin: 0.75em 0;
+}
+li {
+  font-size: 15pt;
+  font-family: cursive;
+}
+h1 {
+  font-size: 48pt;
+  font-weight: bold;
+  color: #1be908;
+  text-align: center;
+}
+
