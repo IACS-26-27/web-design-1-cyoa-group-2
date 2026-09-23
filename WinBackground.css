@@ -4,7 +4,7 @@ body {
   margin-right: auto;
   color: #ded2d2;
   background-image: url("./images/MinecraftCinematicBackground.png");
-  padding: 1em;
+  padding: 1em; <!-- this image was created by Chatgpt-5.6Luna -->
 }
 p {
   font-size: 12pt;
